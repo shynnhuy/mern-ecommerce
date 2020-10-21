@@ -1,0 +1,19 @@
+@import "scss/fontawesome.scss";
+@import "scss/solid.scss";
+@import "scss/duotone.scss";
+@import "scss/light.scss";
+@import "scss/brands.scss";
+@import "fonts/";
+@import "~aos/dist/aos.css";
+
+.bg-white {
+  background-color: white;
+}
+
+body {
+  font-family: "Roboto";
+}
+
+.mr-2 {
+  margin-right: 0.5em;
+}
